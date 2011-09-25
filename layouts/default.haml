@@ -1,0 +1,16 @@
+!!!
+%html{:lang => 'en'}
+    %head
+        %meta{:charset => 'utf-8'}
+        %title
+            - if @item[:title]
+                = @item[:title] + ' - '
+            UNC Computer Science Club
+        %link{:rel => 'stylesheet', :href => '/style.css'}
+    
+    %body
+        #wrapper
+            %header
+                %h1 UNC Computer Science Club
+            
+            = yield

@@ -1,0 +1,19 @@
+html, body {
+    background: white;
+    color: black;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    width: 566px;
+    font: 83%/1.25 'Helvetica Neue', 'Arial', sans-serif;
+    margin: 2em auto 0;
+    padding: 65px 0 0 110px;
+    background: url(cowlogo.png) no-repeat;
+}
+
+header {
+    display: none;
+}
