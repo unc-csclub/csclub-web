@@ -11,6 +11,14 @@
     %body
         #wrapper
             %header
-                %h1 UNC Computer Science Club
+                %h1
+                    - if @item.identifier == '/'
+                        UNC Computer Science Club
+                    - else
+                        %a{:href => '/'} UNC Computer Science Club
             
-            = yield
+            %article
+                - if @item[:title]
+                    %h1= @item[:title]
+
+                = yield

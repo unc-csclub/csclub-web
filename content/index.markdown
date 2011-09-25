@@ -15,6 +15,7 @@ Informal leadership committee for 2011–12:
 
 Other things you may find useful:
 
+* [Key-based authentication with OpenSSH](help/openssh-keygen/)
 * [Slides for Chris Davis’ CrackChats](crackchat/)
 * CS Club SBP forum results:
     [2011](http://www.unc.edu/~zhoum/csclub_sbpforum_2011.html),
