@@ -33,3 +33,6 @@ Subscribe to the CSC mailing list:
 <input type="submit" value="Sign up" />
 </p>
 </form>
+
+The [source code for this Web site](https://github.com/query/csclub-web) is 
+available on GitHub.
