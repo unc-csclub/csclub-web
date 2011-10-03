@@ -1,19 +1,16 @@
-A new CSC site is coming for fall 2011 (no thanks to bum power supplies).
-In the meantime, if you have ideas or questions, send them to Roger Que at
-<query@unc.edu> and we’ll get back to you as soon as possible.
+The UNC Computer Science Club puts together social gatherings, peer education, 
+seminars, and job recruitment events for undergraduates in [the Department of 
+Computer Science](http://www.cs.unc.edu/).
 
-Zach Cross has set up [a #unc-cs IRC channel on 
-freenode](irc://irc.freenode.net/unc-cs), if you’re up for a chat.
+Need to contact somebody?
 
-Informal leadership committee for 2011–12:
+* If you'd like to hold an on-campus recruiting event, contact events 
+  coordinator Zach Cross at <zcross@cs.unc.edu>.
+* Internship or job opening advertisements should be sent to Kevin Jeffay at 
+  <jeffay@cs.unc.edu>.
+* All other inquiries or feedback can go to <cs-club@cs.unc.edu>.
 
-* [Zach Cross](http://www.unc.edu/~zcross/) (<zcross@email.unc.edu>)
-* Rob Dallara (<dallara@email.unc.edu>)
-* Duncan Lindbo (<lindbo@email.unc.edu>)
-* **[Roger Que](http://www.unc.edu/~alerante/)** (chief contact; <query@unc.edu>)
-* Phillip Smith (<smithpr@email.unc.edu>)
-
-Other things you may find useful:
+Some things you may find useful:
 
 * [Key-based authentication with OpenSSH](help/openssh-keygen/)
 * [Slides for Chris Davis’ CrackChats](crackchat/)
@@ -35,4 +32,5 @@ Subscribe to the CSC mailing list:
 </form>
 
 The [source code for this Web site](https://github.com/unc-csclub/csclub-web) 
-is available on GitHub.
+is available on GitHub.  The cow image in the header was generated with Tony 
+Monroe’s [cowsay](http://www.nog.net/~tony/warez/cowsay.shtml).
