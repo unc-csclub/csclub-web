@@ -5,7 +5,7 @@ Computer Science](http://www.cs.unc.edu/).
 Need to contact somebody?
 
 * If you'd like to hold an on-campus recruiting event, contact events 
-  coordinator Zach Cross at <zcross@cs.unc.edu>.
+  coordinator Katie Hawthorne at <kathryne@email.unc.edu>.
 * Internship or job opening advertisements should be sent to Kevin Jeffay at 
   <jeffay@cs.unc.edu>.
 * All other inquiries or feedback can go to <cs-club@cs.unc.edu>.
