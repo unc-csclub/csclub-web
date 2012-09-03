@@ -12,10 +12,8 @@
     #wrapper
       %header
         %h1
-          - if @item.identifier == '/'
+          %a{:href => ('/' unless @item.identifier == '/')}
             UNC Computer Science Club
-          - else
-            %a{:href => '/'} UNC Computer Science Club
 
       %article
         - if @item[:title]
