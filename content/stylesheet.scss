@@ -1,21 +1,20 @@
 html, body {
-    background: white;
-    color: black;
-    width: 100%;
-    margin: 0;
-    padding: 0;
+  background: white;
+  color: black;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 #wrapper {
-    position: relative;
-    width: 566px;
-    font: 83%/1.25 'Helvetica Neue', 'Arial', sans-serif;
-    margin: 2em auto 0;
-    padding: 65px 0 0 110px;
-    background: url(cowlogo.png) no-repeat;
-}
+  position: relative;
+  width: 566px;
+  font: 83%/1.25 'Helvetica Neue', 'Arial', sans-serif;
+  margin: 2em auto 0;
+  padding: 65px 0 0 110px;
+  background: url(cowlogo.png) no-repeat;
 
-header, header h1, header a {
+  > header a {
     display: block;
     position: absolute;
     left: 0;
@@ -25,4 +24,28 @@ header, header h1, header a {
     text-indent: -999px;
     margin: 0;
     padding: 0;
+  }
+
+  > footer {
+    display: block;
+
+    ul {
+      border-top: 1px solid lightgray;
+      margin: 1em 0;
+      padding: 1em 0 0;
+      text-align: right;
+    }
+
+    li {
+      list-style: none;
+
+      &:first-child {
+        float: left;
+      }
+    }
+
+    a {
+      color: gray;
+    }
+  }
 }

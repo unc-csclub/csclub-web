@@ -20,3 +20,11 @@
           %h1= @item[:title]
 
         = yield
+
+      - if @item.identifier != '/'
+        %footer
+          %ul
+            %li
+              %a{:href => '/'} Home
+            %li
+              %a{:href => '#wrapper'} &uarr; Back to top
