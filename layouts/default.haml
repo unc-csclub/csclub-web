@@ -1,24 +1,24 @@
 !!!
 %html{:lang => 'en'}
-    %head
-        %meta{:charset => 'utf-8'}
-        %title
-            - if @item[:title]
-                = @item[:title] + ' - '
-            UNC Computer Science Club
-        %link{:rel => 'stylesheet', :href => '/style.css'}
-    
-    %body
-        #wrapper
-            %header
-                %h1
-                    - if @item.identifier == '/'
-                        UNC Computer Science Club
-                    - else
-                        %a{:href => '/'} UNC Computer Science Club
-            
-            %article
-                - if @item[:title]
-                    %h1= @item[:title]
+  %head
+    %meta{:charset => 'utf-8'}
+    %title
+      - if @item[:title]
+        = @item[:title] + ' - '
+      UNC Computer Science Club
+    %link{:rel => 'stylesheet', :href => '/style.css'}
 
-                = yield
+  %body
+    #wrapper
+      %header
+        %h1
+          - if @item.identifier == '/'
+            UNC Computer Science Club
+          - else
+            %a{:href => '/'} UNC Computer Science Club
+
+      %article
+        - if @item[:title]
+          %h1= @item[:title]
+
+        = yield
