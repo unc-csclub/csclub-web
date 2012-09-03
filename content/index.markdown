@@ -15,7 +15,7 @@ Some things you may find useful:
 * [Key-based authentication with OpenSSH](help/openssh-keygen/)
 * [Slides for Chris Davis’ CrackChats](crackchat/)
 * CS Club SBP forum results:
-    [2011](sbp-forum/2011.html),
+    [2011](sbp-forum/2011/),
     [2010](sbp-forum/2010.txt)
 
 Subscribe to the CSC mailing list:
