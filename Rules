@@ -40,4 +40,4 @@ route '*' do
   end
 end
 
-layout '*', :haml, :ugly => true
+layout '*', :haml, :format => :html5, :ugly => true
