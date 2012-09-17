@@ -27,6 +27,8 @@ Please contact our events coordinator, Katie Hawthorne, at <kathryne@email.unc.e
 
 Other job and internship postings should be sent to Kevin Jeffay at <jeffay@cs.unc.edu>.
 
+Questions about the server or Web site?  Send them to <csc-admins-cs@cs.unc.edu>.
+
 For all other inquiries or feedback, send us mail at <cs-club@cs.unc.edu>.
 </section>
 
