@@ -22,14 +22,13 @@ Subscribe to the CSC mailing list
 Contact us
 ==========
 
-If you're a representative from a company or organization looking to hold an on-campus recruiting event, we'd be glad to have you.
-Please contact our events coordinator, Katie Hawthorne, at <kathryne@email.unc.edu>, for more information.
+Are you a new club member looking to get involved?
+A representative from a company or organization looking to hold an on-campus recruiting event?
+Just someone with a question or suggestion?
+Send us mail at <cs-club@cs.unc.edu>.
 
-Other job and internship postings should be sent to Kevin Jeffay at <jeffay@cs.unc.edu>.
-
-Questions about the server or Web site?  Send them to <csc-admins-cs@cs.unc.edu>.
-
-For all other inquiries or feedback, send us mail at <cs-club@cs.unc.edu>.
+If you have feedback about the server or Web site,
+you can directly contact the administrators at <csc-admins-cs@cs.unc.edu>.
 </section>
 
 <section markdown="1">
