@@ -1,8 +1,21 @@
 This is the [nanoc](http://nanoc.stoneship.org/) tree used to generate the [UNC Computer Science Club Web site](http://csclub.cs.unc.edu/).
-In order to build successfully, the following additional Ruby packages are required:
+You can use [Bundler](http://gembundler.com/) to install the needed dependencies:
 
-* [Haml](http://haml-lang.com/) and [Sass](http://sass-lang.com/) 3.1 or later
-* [kramdown](http://kramdown.rubyforge.org/)
+```sh
+$ gem install bundler
+$ bundle install
+```
 
-To build, use `nanoc co`; the generated output will be placed in a new directory named `output`.
+You can then build the site to the `output` directory by running:
+
+```sh
+$ nanoc co
+```
+
+In order to view the site, run the following and point your browser at <http://127.0.0.1:3000/>:
+
+```sh
+$ nanoc view
+```
+
 Note that pushes to the main GitHub repository trigger a server-side pull and rebuild of the site!
