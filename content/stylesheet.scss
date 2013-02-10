@@ -111,3 +111,79 @@ pre {
   padding: 1em;
   overflow: auto;
 }
+
+@mixin rightfloatinfo {
+    float:right;
+    font-style: italic;
+}
+
+.email-like-bios {
+    font-style: italic;
+    text-decoration: none;
+    color: #0e0e0e;
+}
+
+$preferred-email-color: #0e0e0e;
+$unpreferred-email-color: #bdbdbd;
+$moreinfo-color: #050505;
+
+#bios {
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 2em;
+    a.preferred {
+	color: #0e0e0e;
+    }
+    h2, h3, h4 {
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1.1em;
+	line-height: 1.1em;
+	margin: 0;
+	padding: 0;
+	margin-top: 1.2em;
+	a {
+	    float: right;
+	    font-style: italic;
+	    text-decoration: none;
+	    color: $unpreferred-email-color;
+	    &:hover {
+		color: $preferred-email-color;
+	    }
+	}
+    }
+    h2 {
+	margin-left: -2em;
+	margin-right: -2em;
+	margin-bottom: 0.1em;
+	padding-bottom: 0.15em;
+	border-bottom: 2px solid;
+	a {
+	    color: $preferred-email-color;
+	}
+    }
+    h3 {
+	border-bottom: 1px solid;
+	margin-bottom: 0.1em;
+	padding-bottom: 0.15em;
+    }
+    .moreinfo {
+	float:right;
+	font-style: italic;
+	text-align: right;
+	margin-left: 1em;
+	margin-top: .2em;
+	margin-bottom: .2em;
+	clear: right;
+	color: $moreinfo-color;
+	a {
+	    text-decoration: none;
+	    color: $moreinfo-color;
+	}
+    }
+
+
+    p {
+	margin-top: .2em;
+    }
+}

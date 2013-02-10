@@ -1,6 +1,7 @@
 !!!
 
-- navbarDef = { '/' => "Home" }
+- navbarDef = { '/' => "Home",
+                '/people/' => "People"}
 
 %html{:lang => 'en'}
   %head
@@ -33,6 +34,10 @@
 
       %footer
         %ul
+          %li
+            - if (@item.identifier != '/people/')
+              %a{:href => '/people/#csc-admins'}
+                Contact Webmasters
           %li
             = "The "
             %a{:href => 'https://github.com/unc-csclub/csclub-web'}<
