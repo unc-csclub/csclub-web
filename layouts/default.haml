@@ -1,4 +1,9 @@
 !!!
+
+- navbarDef = { '/' => "Home",
+                 '/help/openssh-keygen/' => "Keygen",
+                 '/sbp-forum/2011/' => "SBP 2011" }
+
 %html{:lang => 'en'}
   %head
     %meta{:charset => 'utf-8'}
@@ -11,9 +16,16 @@
   %body
     #wrapper
       %header
-        %h1
+        #banner-container
           %a{:href => ('/' unless @item.identifier == '/')}
             UNC Computer Science Club
+        %nav
+          %ul
+            - navbarDef.each do |id, text|
+              - isself = (@item.identifier == id)
+              %li{:id => ("selfnav" if isself)}
+                %a{:href => (id unless isself)}
+                  =text
 
       %article
         - if @item[:title]
@@ -21,10 +33,10 @@
 
         = yield
 
-      - if @item.identifier != '/'
-        %footer
-          %ul
-            %li
-              %a{:href => '/'} Home
-            %li
-              %a{:href => '#wrapper'} &uarr; Back to top
+      %footer
+        %ul
+          %li
+            = "The "
+            %a{:href => 'https://github.com/unc-csclub/csclub-web'}<
+              source code for this Web site
+            = " is available on GitHub."
