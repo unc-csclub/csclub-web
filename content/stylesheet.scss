@@ -117,15 +117,15 @@ pre {
     font-style: italic;
 }
 
-.email-like-bios {
-    font-style: italic;
-    text-decoration: none;
-    color: #0e0e0e;
-}
-
 $preferred-email-color: #0e0e0e;
 $unpreferred-email-color: #bdbdbd;
 $moreinfo-color: #050505;
+
+.email-like-bios {
+    font-style: italic;
+    text-decoration: none;
+    color: $preferred-email-color;
+}
 
 #bios {
     margin-left: 2em;
