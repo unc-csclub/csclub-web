@@ -34,8 +34,8 @@
 
       %footer
         %ul
-          %li
-            - if (@item.identifier != '/people/')
+          - if (@item.identifier != '/people/')
+            %li
               %a{:href => '/people/#csc-admins'}
                 Contact Webmasters
           %li
