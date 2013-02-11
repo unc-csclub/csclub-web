@@ -29,10 +29,10 @@ Other Leaders
 -------------
 
 ### Rahul Ramkumar <rramkuma@cs.unc.edu>{:.preferred} {#rramkuma}
-Sophomore cs major and co-president of the cs tutoring program.
+Sophomore CS major and co-president of the CS tutoring program.
 
 ### Kai Leith <klieth@cs.unc.edu>{:.preferred} {#klieth}
-Junior cs major. Future co-president.
+Junior CS major. Future co-president.
 
 Server Admins <csc-admins-cs@cs.unc.edu> {#csc-admins}
 ----------
@@ -44,7 +44,7 @@ website or the server in general.
 Only pretending to be good at computers---is it working?
 
 ### Matt Corallo <corallo@cs.unc.edu> {#corallo}
-A csclub server admin and all-around hacker.
+A CS club server admin and all-around hacker.
 
 ### Stephen Talmadge <talmadge@cs.unc.edu> {#talmadge}
 All your server needs are belong to us?
