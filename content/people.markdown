@@ -27,6 +27,8 @@ co-founder of HatCH.
 
 Other Leaders
 -------------
+### Chelsea Bartram <chelsea.bartram@gmail.com> {#cbartram}
+Co-founder of HatCH
 
 ### Rahul Ramkumar <rramkuma@cs.unc.edu>{:.preferred} {#rramkuma}
 Sophomore CS major and co-president of the CS tutoring program.
