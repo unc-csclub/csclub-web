@@ -1,8 +1,9 @@
 !!!
 
-- navbarDef = { '/' => "Home",
-		'/hackerspace/' => "Hackerspace",
-                '/people/' => "People"}
+- def navbar_each
+  - yield ['/',"Home"]
+  - yield ['/people/',"People"]
+  - yield ['/hackerspace/',"Hackerspace"]
 
 %html{:lang => 'en'}
   %head
@@ -21,7 +22,7 @@
             UNC Computer Science Club
         %nav
           %ul
-            - navbarDef.each do |id, text|
+            - navbar_each do |id, text|
               - isself = (@item.identifier == id)
               %li{:id => ("selfnav" if isself)}
                 %a{:href => (id unless isself)}
@@ -35,8 +36,8 @@
 
       %footer
         %ul
-          %li
-            - if (@item.identifier != '/people/')
+          - if (@item.identifier != '/people/')
+            %li
               %a{:href => '/people/#csc-admins'}
                 Contact Webmasters
           %li

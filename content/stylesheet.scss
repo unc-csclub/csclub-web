@@ -128,11 +128,10 @@ $moreinfo-color: #050505;
 }
 
 #bios {
-    margin-left: 2em;
-    margin-right: 2em;
     margin-bottom: 2em;
-    a.preferred {
-	color: #0e0e0e;
+    .group {
+	margin-left: 2em;
+	margin-right: 2em;
     }
     h2, h3, h4 {
 	font-weight: normal;
@@ -152,9 +151,14 @@ $moreinfo-color: #050505;
 	    }
 	}
     }
+    .self-preferred {
+	h2, h3, h4 {
+	    a {
+		color: $preferred-email-color;
+	    }
+	}
+    }
     h2 {
-	margin-left: -2em;
-	margin-right: -2em;
 	margin-bottom: 0.1em;
 	padding-bottom: 0.15em;
 	border-bottom: 2px solid;
