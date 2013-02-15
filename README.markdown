@@ -9,13 +9,13 @@ $ bundle install
 You can then build the site to the `output` directory by running:
 
 ```sh
-$ nanoc co
+$ bundle exec nanoc co
 ```
 
 In order to view the site, run the following and point your browser at <http://127.0.0.1:3000/>:
 
 ```sh
-$ nanoc view
+$ bundle exec nanoc view
 ```
 
 Note that pushes to the main GitHub repository trigger a server-side pull and rebuild of the site!
