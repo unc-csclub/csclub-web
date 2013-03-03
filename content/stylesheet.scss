@@ -7,7 +7,7 @@ html, body {
 }
 
 @mixin horiz-list {
-    &::after{
+    &:after{
 	content: "-";
 	visibility: hidden;
 	display: block;
