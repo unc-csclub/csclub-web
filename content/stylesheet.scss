@@ -6,52 +6,186 @@ html, body {
   padding: 0;
 }
 
+html {
+    overflow-y: scroll;
+}
+
+@mixin horiz-list {
+    &:after{
+	content: "-";
+	visibility: hidden;
+	display: block;
+	clear: left;
+	height: 0;
+	margin: 0;
+	padding: 0;
+    }
+    list-style: none;
+    li {
+	float: left;
+    }
+}
+
 #wrapper {
   position: relative;
   width: 566px;
   font: 83%/1.25 'Helvetica Neue', 'Arial', sans-serif;
   margin: 2em auto 0;
-  padding: 65px 0 0 110px;
-  background: url(cowlogo.png) no-repeat;
+  padding: 65px 0 0 0;
 
-  > header a {
+  > header #banner-container {
+    height: 100px;
+    overflow: hidden;
+    clip: auto;
     display: block;
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 676px;
-    height: 65px;
-    text-indent: -999px;
-    margin: 0;
-    padding: 0;
+
+    a {
+	width: 100%;
+	height: 100%;
+    }
+
+    img {
+	width: 100%;
+	border-style: none;
+    }
   }
 
   > footer {
+      display: block;
+
+      font-size: 70%;
+      color: #707070;
+      a {
+	  color: #707070;
+	  text-decoration: underline;
+      }
+
+      ul {
+	  @include horiz-list;
+	  border-top: 1px solid lightgray;
+	  margin: 1em 0;
+	  padding: 1em 0 0;
+
+	  li {
+	      padding: 0 .5em;
+	  }
+      }
+  }
+
+}
+
+nav {
     display: block;
+    background: #40e2ed;
+    margin-bottom: 2em;
+    width: 100%;
 
     ul {
-      border-top: 1px solid lightgray;
-      margin: 1em 0;
-      padding: 1em 0 0;
-      text-align: right;
+	list-style: none;
+	@include horiz-list;
     }
-
     li {
-      list-style: none;
+	padding: .2em 1em;
 
-      &:first-child {
-        float: left;
-      }
+	a {
+	    color: #00263f;
+	}
+
+	&#selfnav {
+	    background: #00c3cf;
+	}
+
     }
 
     a {
-      color: gray;
+	text-decoration: none;
+	color: #000000;
     }
-  }
+
 }
 
 pre {
   background: lightgray;
   padding: 1em;
   overflow: auto;
+}
+
+@mixin rightfloatinfo {
+    float:right;
+    font-style: italic;
+}
+
+$preferred-email-color: #0e0e0e;
+$unpreferred-email-color: #bdbdbd;
+$moreinfo-color: #050505;
+
+.email-like-bios {
+    font-style: italic;
+    text-decoration: none;
+    color: $preferred-email-color;
+}
+
+#bios {
+    margin-bottom: 2em;
+    .group {
+	margin-left: 2em;
+	margin-right: 2em;
+    }
+    h2, h3, h4 {
+	font-weight: normal;
+	font-style: normal;
+	font-size: 1.1em;
+	line-height: 1.1em;
+	margin: 0;
+	padding: 0;
+	margin-top: 1.2em;
+	a {
+	    float: right;
+	    font-style: italic;
+	    text-decoration: none;
+	    color: $unpreferred-email-color;
+	    &:hover {
+		color: $preferred-email-color;
+	    }
+	}
+    }
+    .self-preferred {
+	h2, h3, h4 {
+	    a {
+		color: $preferred-email-color;
+	    }
+	}
+    }
+    h2 {
+	margin-bottom: 0.1em;
+	padding-bottom: 0.15em;
+	border-bottom: 2px solid;
+	a {
+	    color: $preferred-email-color;
+	}
+    }
+    h3 {
+	border-bottom: 1px solid;
+	margin-bottom: 0.1em;
+	padding-bottom: 0.15em;
+    }
+    .moreinfo {
+	float:right;
+	font-style: italic;
+	text-align: right;
+	margin-left: 1em;
+	margin-top: .2em;
+	margin-bottom: .2em;
+	clear: right;
+	color: $moreinfo-color;
+	a {
+	    text-decoration: none;
+	    color: $moreinfo-color;
+	}
+    }
+
+
+    p {
+	margin-top: .2em;
+    }
 }

@@ -1,4 +1,11 @@
 !!!
+
+- def navbar_each
+  - yield ['/',"Home"]
+  - yield ['/people/',"People"]
+  - yield ['/hackerspace/',"Hackerspace"]
+  - yield ['/HackNight/',"Hack Night"]
+
 %html{:lang => 'en'}
   %head
     %meta{:charset => 'utf-8'}
@@ -7,13 +14,23 @@
         = @item[:title] + ' - '
       UNC Computer Science Club
     %link{:rel => 'stylesheet', :href => '/style.css'}
+    <!--[if lte IE 8]>
+    <script src="/ie8-html5.js"></script>
+    <![endif]-->
 
   %body
     #wrapper
       %header
-        %h1
+        #banner-container
           %a{:href => ('/' unless @item.identifier == '/')}
-            UNC Computer Science Club
+            %img{:src => ('/CSCLUBLOGO2.jpg'), :alt => "UNC Computer Science Club" }
+        %nav
+          %ul
+            - navbar_each do |id, text|
+              - isself = (@item.identifier == id)
+              %li{:id => ("selfnav" if isself)}
+                %a{:href => (id unless isself)}
+                  =text
 
       %article
         - if @item[:title]
@@ -21,10 +38,10 @@
 
         = yield
 
-      - if @item.identifier != '/'
-        %footer
-          %ul
-            %li
-              %a{:href => '/'} Home
-            %li
-              %a{:href => '#wrapper'} &uarr; Back to top
+      %footer
+        %ul
+          %li
+            = "The "
+            %a{:href => 'https://github.com/unc-csclub/csclub-web'}<
+              source code for this Web site
+            = " is available on GitHub."

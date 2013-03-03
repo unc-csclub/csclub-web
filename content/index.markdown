@@ -1,6 +1,8 @@
 The UNC Computer Science Club puts together social gatherings, peer education,
 seminars, and job recruitment events for undergraduates in [the Department of
-Computer Science](http://www.cs.unc.edu/).
+Computer Science](http://www.cs.unc.edu/). If you'd like to contact us for more
+information, please email us at <cs-club@cs.unc.edu>, or see the [People
+page](/people/) for more contact information.
 
 <section markdown="1">
 Subscribe to the CSC mailing list
@@ -16,38 +18,4 @@ Subscribe to the CSC mailing list
 <input type="submit" value="Sign up" />
 </p>
 </form>
-</section>
-
-<section markdown="1">
-Contact us
-==========
-
-Are you a new club member looking to get involved?
-A representative from a company or organization looking to hold an on-campus recruiting event?
-Just someone with a question or suggestion?
-Send us mail at <cs-club@cs.unc.edu>.
-
-If you have feedback about the server or Web site,
-you can directly contact the administrators at <csc-admins-cs@cs.unc.edu>.
-</section>
-
-<section markdown="1">
-Articles
-========
-
-* [Key-based authentication with OpenSSH](help/openssh-keygen/)
-* [Slides for Chris Davis' CrackChats](crackchat/)
-* CS Club SBP forum results:
-    [2011](sbp-forum/2011/),
-    [2010](sbp-forum/2010.txt)
-</section>
-
-<section markdown="1">
-The fine print
-==============
-
-The [source code for this Web site](https://github.com/unc-csclub/csclub-web) is available on GitHub.
-Feel free to fork the repository, play around with the code, or even send us a pull request.
-
-The cow image in the header was generated with Tony Monroe's [cowsay](http://www.nog.net/~tony/warez/cowsay.shtml).
 </section>
