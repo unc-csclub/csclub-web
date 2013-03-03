@@ -6,6 +6,10 @@ html, body {
   padding: 0;
 }
 
+html {
+    overflow-y: scroll;
+}
+
 @mixin horiz-list {
     &:after{
 	content: "-";
