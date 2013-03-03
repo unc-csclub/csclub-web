@@ -51,7 +51,7 @@ website or the server in general.
 <div class="group" markdown="1">
 
 ### David Adler <adlerd@cs.unc.edu> {#adlerd}
-Only pretending to be good at computers---is it working?
+Only pretending to be good at computers.
 
 ### Matt Corallo <corallo@cs.unc.edu> {#corallo}
 A CS club server admin and all-around hacker.
