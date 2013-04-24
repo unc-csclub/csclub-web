@@ -1,4 +1,4 @@
-This is the [nanoc](http://nanoc.stoneship.org/) tree used to generate the [UNC Computer Science Club Web site](http://csclub.cs.unc.edu/).
+This is the [nanoc](http://nanoc.ws/) tree used to generate the [UNC Computer Science Club Web site](http://csclub.cs.unc.edu/).
 You can use [Bundler](http://gembundler.com/) to install the needed dependencies:
 
 ```sh
