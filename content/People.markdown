@@ -55,28 +55,5 @@ A CS club server admin and all-around hacker.
 ### Stephen Talmadge <talmadge@cs.unc.edu> {#talmadge}
 All your server needs are belong to us?
 
-{::comment}
-The below examples show some extra features in the CSS which aren't actually
-being used right now; they may be handy later:
-
-### Ex Ample --- Title <example@example.com> {#example}
-<alternate-email@example.com>\\
-(202) 555-5555
-{:.moreinfo}
-[website](http://example.com)
-{:.moreinfo}
-This is a placeholder person, so while development goes on we can keep track of
-how to do moreinfo and the like, and also what it looks like. A cool guy.
-There's a lot of info here about him for testing purposes; you see, we need to
-see how more info interacts on the right. And so we will continue writing until
-we clear the float on the right, which might take a while.
-
-This is a second paragraph on the example person. How droll.
-
-#### Ex Ample II --- Has-No-Description <exampleII@example.com> {#example2}
-
-#### Ex Ample III --- Has-No-Description <example3@example.com> {#example3}
-{:/comment}
-
 </div>
 </section>
