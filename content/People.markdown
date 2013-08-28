@@ -17,14 +17,13 @@ the club itself.
 <div class="group" markdown="1">
 
 ### Kai Leith <klieth@cs.unc.edu> {#klieth}
-Senior CS major. Future co-president.
+Senior CS major.
 
 ### Matt Leming <mleming@cs.unc.edu> {#mleming}
-CS Club co-president. Will drink anything with caffeine in it. Accepts bribes.
-Ageless.
+Will drink anything with caffeine in it. Accepts bribes.
 
 ### Mike Kronk <mkronk7@gmail.com> {#mkronk}
-CS Club co-president, Senior CS major, Brazilian Jiu-Jitsu practitioner, and
+Senior CS major, Brazilian Jiu-Jitsu practitioner, and
 co-founder of HatCH.
 
 </div>
