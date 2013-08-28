@@ -16,15 +16,15 @@ the club itself.
 
 <div class="group" markdown="1">
 
-### Katie Hawthorne <kathryne@cs.unc.edu> {#kathryne}
-CS Club co-president, WiCS co-president, senior CS major & (ex)-overachiever.
-Survives on caffeine, tumblr gifs, and dreams of California.
+### Kai Leith <klieth@cs.unc.edu> {#klieth}
+Senior CS major. Future co-president.
 
 ### Matt Leming <mleming@cs.unc.edu> {#mleming}
 CS Club co-president. Will drink anything with caffeine in it. Accepts bribes.
+Ageless.
 
 ### Mike Kronk <mkronk7@gmail.com> {#mkronk}
-CS Club co-president, Junior CS major, Brazilian Jiu-Jitsu practitioner, and
+CS Club co-president, Senior CS major, Brazilian Jiu-Jitsu practitioner, and
 co-founder of HatCH.
 
 </div>
@@ -36,10 +36,7 @@ Other Leaders
 Co-founder of HatCH.
 
 ### Rahul Ramkumar <rramkuma@cs.unc.edu> {#rramkuma}
-Sophomore CS major and co-president of the CS tutoring program.
-
-### Kai Leith <klieth@cs.unc.edu> {#klieth}
-Junior CS major. Future co-president.
+Junior CS major and co-president of the CS tutoring program.
 </div>
 
 Server Admins <csc-admins-cs@cs.unc.edu> {#csc-admins}
