@@ -50,7 +50,7 @@ Server Admins <csc-admins-cs@cs.unc.edu> {#csc-admins}
 ----------
 We handle the server you're connected to right now. Send mail to this address
 if you want to contact all of us with an idea, suggestion, or complaint for the
-website or the server in general. 
+website or the server in general.
 
 <div class="group" markdown="1">
 
