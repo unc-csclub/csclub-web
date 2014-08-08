@@ -36,11 +36,11 @@ Co-founder of HatCH. A physics grad student.
 
 ### Vance Miller <v@unc.edu> {#v}
 Lead on HackNC. Dude has a one-letter email address. One. Letter.
-</div>
+
 
 ### Maegan Clawges <clawges@live.unc.edu> {#clawges}
 Founder and Lead on Pearl Hacks. Probably thinks this website needs to be redesigned (it WON'T. BE.).
-</div>
+
 
 ### Sarah Gabr <sjgabr@gmail.com> {#sjgabr}
 President of [Women in Computer Science](https://www.facebook.com/groups/209467285885546/). Boys . . . boys aren't allowed.
