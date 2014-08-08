@@ -11,10 +11,10 @@ Meetings and Things
 <div class="group" markdown="1">
 
 ### General Meetings
-Biweekly on Wednesdays at 5 in FB 007. Watch the listserv for announcements!
+Biweekly on TBA. Watch the listserv for announcements!
 
 ### Tutoring
-[Tutoring](/Tutoring) is on Thursdays from 5 to 7 in FB 007.
+[Tutoring](/Tutoring) is on Thursdays from 5 to 7 in TBA.
 
 ### Hackerspace (HatCH)
 [HatCH](/Hackerspace) meets in the CS Club room in Sitterson on Thursdays at 7.
@@ -25,9 +25,10 @@ Hackathons
 <div class="group" markdown="1">
 ### HackNC
 October 25 - 26, 2014
+[website](http://hacknc.us/)
 
 ### Pearl Hacks
-TBA
+[website](http://pearlhacks.com/)
 
 </div>
 
