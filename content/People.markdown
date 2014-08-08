@@ -16,44 +16,49 @@ the club itself.
 
 <div class="group" markdown="1">
 
-### Kai Leith <klieth@cs.unc.edu> {#klieth}
-Senior CS major.
-
 ### Matt Leming <mleming@cs.unc.edu> {#mleming}
-Will drink anything with caffeine in it. Accepts bribes.
+Tutoring/Listserv/HackNC/administrivia. "The corrupt one."
 
-### Mike Kronk <mkronk7@gmail.com> {#mkronk}
-Senior CS major, Brazilian Jiu-Jitsu practitioner, and
-co-founder of HatCH.
+### Rahul Ramkumar <rramkuma@live.unc.edu> {#rramkuma}
+Interviews, job preparation, tutoring. Takes it personally when you rip on Java.
+
+### Roman Myers <rbmyers@live.unc.edu> {#rbmyers}
+One of the HatCH leaders, room rennovator. Insists on writing his code in iambic pentameter.
+
 
 </div>
 
-Other Leaders
+Other Student Leaders
 -------------
 <div class="group self-preferred" markdown="1">
 ### Chelsea Bartram <chelsea.bartram@gmail.com> {#cbartram}
-Co-founder of HatCH.
+Co-founder of HatCH. A physics grad student.
 
-### Rahul Ramkumar <rramkuma@cs.unc.edu> {#rramkuma}
-Junior CS major and co-president of the CS tutoring program.
+### Vance Miller <v@unc.edu> {#v}
+Lead on HackNC. Dude has a one-letter email address. One. Letter.
+</div>
+
+### Maegan Clawges <clawges@live.unc.edu> {#clawges}
+Founder and Lead on Pearl Hacks. Probably thinks this website needs to be redesigned (it WON'T. BE.).
+</div>
+
+### Sarah Gabr <sjgabr@gmail.com> {#sjgabr}
+President of [Women in Computer Science](https://www.facebook.com/groups/209467285885546/). Boys . . . boys aren't allowed.
 </div>
 
 Server Admins <csc-admins-cs@cs.unc.edu> {#csc-admins}
 ----------
 We handle the server you're connected to right now. Send mail to this address
 if you want to contact all of us with an idea, suggestion, or complaint for the
-website or the server in general.
+website or the server in general. 
 
 <div class="group" markdown="1">
 
 ### David Adler <adlerd@cs.unc.edu> {#adlerd}
-Only pretending to be good at computers.
-
-### Matt Corallo <corallo@cs.unc.edu> {#corallo}
-A CS club server admin and all-around hacker.
+We are IT. We are legion.
 
 ### Stephen Talmadge <talmadge@cs.unc.edu> {#talmadge}
-All your server needs are belong to us?
+We are IT. We are legion.
 
 </div>
 </section>
