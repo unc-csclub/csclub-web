@@ -24,10 +24,11 @@ Hackathons
 -------------
 <div class="group" markdown="1">
 ### HackNC
-October 25 - 26, 2014
+October 25 - 26, 2014 <br>
 [website](http://hacknc.us/)
 
 ### Pearl Hacks
+TBA <br>
 [website](http://pearlhacks.com/)
 
 </div>
