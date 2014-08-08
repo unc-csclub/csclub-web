@@ -38,53 +38,81 @@ listserv for the latest info!
 
 <div class="group" markdown="1">
 
-### Microsoft
-September 11, 3:30 to 4:30 p.m<br>
+### Microsoft Office Hours & Resume Exchange
+Thursday, August 28, 2014, 9:00 AM to 1:00 PM <br>
+Digital Signs, SN Lower Lobby
+
+### Microsoft Resume Clinic
+Thursday, August 28, 2014 5:30 PM to 7:30 PM <br>
+Digital Signs, SN Lower Lobby
+
+### Palantir Info Session
+Monday, September 8, 2014 5:00 PM to 6:30 PM <br>
 SN014
 
-### Square
-September 11, 10 a.m. to 1 p.m.<br>
-Lobby table in Sitterson Lower Lobby
+### Cisco
+Tuesday, September 9, 2014 6:00 PM to 7:30 PM <br>
+239A/B Hanes
 
-September 11, 7 to 8:30 p.m.<br>
-Information Session in SN014
+### Capital One Tech Talk
+Tuesday, September 9, 2014 5:00 PM to 6:30 PM <br>
+SN011
 
-### LinkedIn
-September 11, 5 to 6:30 p.m.<br>
-Information session in SN011
+### General Electric
+Wednesday, September 10, 2014 4:00 PM to 5:00 PM <br>
+3411 Student Union
 
-### Google
-September 12, 10 a.m. to 1 p.m.<br>
-Lobby table in Sitterson Lower Lobby
+### Google Info Session
+Wednesday, September 10, 2014 4:30 PM to 6:00 PM <br>
+SN014
 
-September 12, 5 to 6:30 p.m.<br>
-Event TBD in SN014
+### Microsoft Tech Talk
+Wednesday, September 10, 2014 6:30 PM to 8:00 PM <br>
+SN014
 
-### Palantir Technologies
-September 16, 6 to 7:30 p.m.<br>
-Information session in FB009
+### CS Career Symposium
+Thursday, September 11, 2014 3:30 PM to 7:00 PM <br>
+Digital Signs, FB009 seats 80, SN Lower Lobby, SN014 seats 125, SN020 Entrepreneurs' Lounge
 
-### Red Ventures
-September 25, 6 to 7 p.m.<br>
-Tech Talk in SN011
+### NetSuite
+Thursday, September 11, 2014 5:00 PM to 6:00 PM <br>
+239A/B Hanes
 
-### CIA
-September 30, 10:30 a.m. to 12:30 p.m.<br>
-Lobby table in Sitterson Upper Lobby
+### Computer Science Career Fair
+Friday, September 12, 2014 7:00 AM to 2:30 PM <br>
+SN Lower Lobby, SN Upper Lobby, SN020 Entrepreneurs' Lounge
 
-September 30, 2:30 to 3:30 p.m.<br>
-Information Session in FB007
+### Square Tech Talk
+Friday, September 12, 2014 3:00 PM to 4:30 PM <br>
+SN014
 
-### Willow Tree Apps
-October 1, 6 to 7 p.m.<br>
-Tech Talk in SN011
+### IBM
+Tuesday, September 16, 2014 7:00 PM to 8:30 PM <br>
+3411 Student Union
 
-### Fidelity Investment
-October 8, 3 to 4:30 p.m.<br>
-Lobby table in Sitterson Lower Lobby
+### Credit Suisse
+Tuesday, September 23, 2014 5:30 PM to 7:00 PM <br>
+Hanes Hall (?)
 
-October 8, 5 to 6:30 p.m.<br>
-Info. Session in SN011 any rescheduling for these.
+### Red Ventures Info Session
+Tuesday, September 23, 2014 7:00 PM to 9:00 PM <br>
+Top of the Hill
+
+### IBM
+Monday, September 29, 2014 5:30 PM to 7:00 PM <br>
+239A/B Hanes
+
+### Humana Info Session
+Wednesday, October 1, 2014 4:30 PM to 6:00 PM <br>
+SN011
+
+### RENCI Tech Talk
+Thursday, October 9, 2014 4:30 PM to 7:00 PM <br>
+SN014
+
+### RENCI Tech Talk
+Thursday, October 23, 2014 4:00 PM to 6:30 PM <br>
+SN014
 
 </div>
 </section>
