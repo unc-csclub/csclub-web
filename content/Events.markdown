@@ -23,17 +23,12 @@ Biweekly on Wednesdays at 5 in FB 007. Watch the listserv for announcements!
 Hackathons
 -------------
 <div class="group" markdown="1">
-### Mini-Hackathon
-Saturday, September 28th - 12:00 PM - 12:00AM (12 hour)
+### HackNC
+October 25 - 26, 2014
 
-### Hackathon
-Saturday, November 16th - 12:00 PM - 12:00 PM on Sunday (24 hour)
+### Pearl Hacks
+TBA
 
-### Mini-Hackathon
-Saturday, Feburary 8th - 12:00 PM - 12:00AM (12 hour)
-
-### HeelHack
-Saturday, March 29th - 12:00 PM - 12:00 PM on Sunday (24 hour)
 </div>
 
 Tech Talks
