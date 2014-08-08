@@ -1,7 +1,7 @@
 The UNC Computer Science Club puts together social gatherings, peer education,
 seminars, and job recruitment events for undergraduates in [the Department of
 Computer Science](http://www.cs.unc.edu/). If you'd like to contact us for more
-information, please email us at <cs-club@cs.unc.edu>, or see the [People
+information, please email us at <cs-club@cs.unc.edu>, get on our [Facebook group](https://www.facebook.com/groups/unccsclub/), or see the [People
 page](/people/) for more contact information.
 
 <section markdown="1">
