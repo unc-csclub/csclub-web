@@ -23,7 +23,7 @@ Tutoring/Listserv/HackNC/administrivia. "The corrupt one."
 Interviews, job preparation, tutoring. Takes it personally when you rip on Java.
 
 ### Roman Myers <rbmyers@live.unc.edu> {#rbmyers}
-One of the HatCH leaders, room rennovator. Insists on writing his code in iambic pentameter.
+One of the HatCH leaders, room renovator. Insists on writing his code in iambic pentameter.
 
 
 </div>
