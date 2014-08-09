@@ -35,7 +35,7 @@ Other Student Leaders
 Co-founder of HatCH. A physics grad student.
 
 ### Vance Miller <v@unc.edu> {#v}
-Lead on HackNC. Dude has a one-letter email address. One. Letter.
+Lead on HackNC. Meow. Meow. Inside. Meow. Joke. Meow.
 
 
 ### Maegan Clawges <clawges@live.unc.edu> {#clawges}
