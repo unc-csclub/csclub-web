@@ -43,7 +43,7 @@ Founder and Lead on Pearl Hacks. Probably thinks this website needs to be redesi
 
 
 ### Sarah Gabr <sjgabr@gmail.com> {#sjgabr}
-President of [Women in Computer Science](https://www.facebook.com/groups/209467285885546/). Boys . . . boys aren't allowed.
+President of [Women in Computer Science](https://www.facebook.com/groups/209467285885546/). "I'll come up with something...wittier later"
 </div>
 
 Server Admins <csc-admins-cs@cs.unc.edu> {#csc-admins}
