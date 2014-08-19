@@ -41,15 +41,15 @@ listserv for the latest info!
 <div class="group" markdown="1">
 
 ### Microsoft Office Hours & Resume Exchange
-Thursday, August 28, 2014, 9:00 AM to 1:00 PM <br>
+Thursday, August 28, 2014, 10:00 AM to 2:00 PM <br>
 Digital Signs, SN Lower Lobby
 
 ### Microsoft Resume Clinic
-Thursday, August 28, 2014 5:30 PM to 7:30 PM <br>
+Thursday, August 28, 2014 6:30 PM to 8:30 PM <br>
 Digital Signs, SN Lower Lobby
 
 ### Palantir Info Session
-Monday, September 8, 2014 5:00 PM to 6:30 PM <br>
+Monday, September 8, 2014 6:00 PM to 8:00 PM <br>
 SN014
 
 ### Cisco
@@ -57,7 +57,7 @@ Tuesday, September 9, 2014 6:00 PM to 7:30 PM <br>
 239A/B Hanes
 
 ### Capital One Tech Talk
-Tuesday, September 9, 2014 5:00 PM to 6:30 PM <br>
+Tuesday, September 9, 2014 6:00 PM to 7:30 PM <br>
 SN011
 
 ### General Electric
@@ -65,11 +65,11 @@ Wednesday, September 10, 2014 4:00 PM to 5:00 PM <br>
 3411 Student Union
 
 ### Google Info Session
-Wednesday, September 10, 2014 4:30 PM to 6:00 PM <br>
+Wednesday, September 10, 2014 5:30 PM to 7:00 PM <br>
 SN014
 
 ### Microsoft Tech Talk
-Wednesday, September 10, 2014 6:30 PM to 8:00 PM <br>
+Wednesday, September 10, 2014 7:30 PM to 9:00 PM <br>
 SN014
 
 ### CS Career Symposium
@@ -81,11 +81,11 @@ Thursday, September 11, 2014 5:00 PM to 6:00 PM <br>
 239A/B Hanes
 
 ### Computer Science Career Fair
-Friday, September 12, 2014 7:00 AM to 2:30 PM <br>
+Friday, September 12, 2014 8:00 AM to 3:30 PM <br>
 SN Lower Lobby, SN Upper Lobby, SN020 Entrepreneurs' Lounge
 
 ### Square Tech Talk
-Friday, September 12, 2014 3:00 PM to 4:30 PM <br>
+Friday, September 12, 2014 4:00 PM to 5:00 PM <br>
 SN014
 
 ### IBM
@@ -105,15 +105,15 @@ Monday, September 29, 2014 5:30 PM to 7:00 PM <br>
 239A/B Hanes
 
 ### Humana Info Session
-Wednesday, October 1, 2014 4:30 PM to 6:00 PM <br>
+Wednesday, October 1, 2014 6:00 PM to 7:30 PM <br>
 SN011
 
 ### RENCI Tech Talk
-Thursday, October 9, 2014 4:30 PM to 7:00 PM <br>
+Thursday, October 9, 2014 5:30 PM to 8:00 PM <br>
 SN014
 
 ### RENCI Tech Talk
-Thursday, October 23, 2014 4:00 PM to 6:30 PM <br>
+Thursday, October 23, 2014 5:00 PM to 7:30 PM <br>
 SN014
 
 </div>
