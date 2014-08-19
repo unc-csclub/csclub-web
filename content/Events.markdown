@@ -33,12 +33,16 @@ TBA <br>
 
 </div>
 
-Tech Talks
+Tech Talks and Events
 ----------
 This list is subject to change, and isn't really complete. Sign up for the
 listserv for the latest info!
 
 <div class="group" markdown="1">
+
+### Undergraduate Open House
+Tuesday, August 26, 2014, 5:00 PM to 7:00 PM <br>
+SN 014
 
 ### Microsoft Office Hours & Resume Exchange
 Thursday, August 28, 2014, 10:00 AM to 2:00 PM <br>
