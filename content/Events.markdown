@@ -77,7 +77,7 @@ Wednesday, September 10, 2014 7:30 PM to 9:00 PM <br>
 SN014
 
 ### CS Career Symposium
-Thursday, September 11, 2014 3:30 PM to 7:00 PM <br>
+Thursday, September 11, 2014 4:30 PM to 8:00 PM <br>
 Digital Signs, FB009 seats 80, SN Lower Lobby, SN014 seats 125, SN020 Entrepreneurs' Lounge
 
 ### NetSuite
@@ -85,7 +85,7 @@ Thursday, September 11, 2014 5:00 PM to 6:00 PM <br>
 239A/B Hanes
 
 ### Computer Science Career Fair
-Friday, September 12, 2014 8:00 AM to 3:30 PM <br>
+Friday, September 12, 2014 11:00 AM to 3:30 PM <br>
 SN Lower Lobby, SN Upper Lobby, SN020 Entrepreneurs' Lounge
 
 ### Square Tech Talk
